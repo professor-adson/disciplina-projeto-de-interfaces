@@ -1,0 +1,14 @@
+.par {
+    background: blue;
+    color: yellow;
+}
+
+.span1 {
+    color: white;
+    font-weight: bold;
+}
+
+#s1 {
+    color: green;
+    font-weight: bold;
+}
