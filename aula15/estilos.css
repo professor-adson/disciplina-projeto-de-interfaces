@@ -1,0 +1,33 @@
+body {
+    background-color: rgba(0,0,255,0.5);
+}
+
+.p1 {
+    background-color: rgb(255,0,0);
+}
+
+.d1 {
+    background-color: green;
+    width: 50%;
+    /*border-style: dashed;*/
+    /*border-width: 3px;*/
+    /*border-color: blue;*/
+    border: 3px dashed blue;
+}
+
+.d2 {
+    background-color: yellow;
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+    border-radius: 10px;
+}
+
+.d3 {
+    margin: 20px;
+    padding: 16px;
+}
+
+.s1 {
+    font-weight: bold;
+    font-style: italic;
+}
