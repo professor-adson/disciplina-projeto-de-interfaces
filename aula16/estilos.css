@@ -1,0 +1,6 @@
+div {
+    background-color: red;
+    height: 50px;
+    width: 800px;
+    /*max-width: 800px;*/
+}
