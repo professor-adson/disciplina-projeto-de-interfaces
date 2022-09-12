@@ -1,0 +1,23 @@
+.p1 {
+    font-family: Arial, "Times New Roman", Calibri;
+}
+
+.p2 {
+    font-family: Verdana, "Comic Sans MS", Consolas;
+}
+
+.p3 {
+    font-family: Calibri, "Microsoft Sans Serif", Verdana;
+}
+
+.p4 {
+    font-family: "Times New Roman", "HoloLens MDL2 Assets", "JetBrains Mono Medium";
+}
+
+.it {
+    font-style: italic;
+}
+
+.neg {
+    font-weight: bold;
+}

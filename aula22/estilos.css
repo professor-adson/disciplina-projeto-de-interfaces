@@ -1,0 +1,53 @@
+div a {
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    margin: 5px;
+}
+
+div a:hover {
+    color: yellow;
+}
+
+div a:visited {
+    color: aquamarine;
+}
+
+.ul1 {
+    list-style-image: url("download.png");
+    list-style-position: inside;
+}
+
+.ul1 li {
+    font-weight: bold;
+}
+
+.ul1 li:nth-child(odd) {
+    background-color: #dfdfdf;
+}
+
+.ul1 li:nth-child(even) {
+    background-color: gray;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table tr:nth-child(odd) td {
+    background-color: lightgrey;
+}
+
+table tr:nth-child(even) td {
+    border-bottom: 1px solid gray;
+    background-color: yellow;
+    font-weight: bold;
+    color: darkblue;
+}
+
+table tr:hover td{
+    background-color: lightblue;
+    color: darkblue;
+}

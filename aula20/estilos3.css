@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+
+.p21 {
+
+}
+
+.p22 {
+    background-color: blue;
+    color: white;
+}
+
+p > span {
+    font-family: 'Aboreto', sans-serif;
+    background-color: green;
+    color: yellow;
+}
