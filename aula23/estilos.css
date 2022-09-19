@@ -1,0 +1,36 @@
+table {
+    width: 100%;
+}
+
+table tr td {
+    border: 1px solid black;
+}
+
+tr.linhaPar td.colunaImpar {
+    text-align: right;
+}
+
+.container {
+    border: 1px solid red;
+    overflow-x: scroll;
+    overflow-y: scroll;
+}
+
+.container table {
+    width: 150%;
+}
+
+table tr:nth-child(odd) td {
+    height: 100px;
+    vertical-align: middle;
+}
+
+table tr td:nth-child(1) {
+    border: 2px solid blue;
+}
+
+.imagem1 {
+    width: 200px;
+    height: 120px;
+    visibility: hidden;
+}
